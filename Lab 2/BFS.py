@@ -1,3 +1,4 @@
+# Author - Shamura Ahmad
 from collections import deque
 
 step = ["Down", "Up", "Right", "Left"]
